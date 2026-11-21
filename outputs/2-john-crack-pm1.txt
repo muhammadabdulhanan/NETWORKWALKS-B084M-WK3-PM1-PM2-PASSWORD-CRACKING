@@ -1,0 +1,12 @@
+Using default input encoding: UTF-8
+Loaded 1 password hash (PDF [MD5 SHA2 RC4/AES 32/64])
+Cost 1 (revision) is 4 for all loaded hashes
+Will run 4 OpenMP threads
+Press 'q' or Ctrl-C to abort, almost any other key for status
+good-luck        (?)
+1g 0:00:00:00 DONE (2026-11-21 18:54) 10.00g/s 34560p/s 34560c/s 34560C/s jussi..OU812
+Use the "--show --format=PDF" options to display all of the cracked passwords reliably
+Session completed
+?:good-luck
+
+1 password hash cracked, 0 left
